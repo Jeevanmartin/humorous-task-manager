@@ -9,15 +9,16 @@
 <body>
     <div class="container">
         <h1>Humorous Task Manager</h1>
-        <input type="text" id="taskInput" placeholder="Enter a task..." />
-        <input type="text" id="moodInput" placeholder="How are you feeling? (happy, lazy, sad)" />
+        <input type="text" id="taskInput" placeholder="Enter your task">
+        <input type="text" id="moodInput" placeholder="Enter your mood (happy, lazy, sad)">
         <button id="addTaskButton">Add Task</button>
         <ul id="taskList"></ul>
-
-        <!-- Audio Elements -->
-        <audio id="successSound" src="success.mp3"></audio>
-        <audio id="failSound" src="fail.mp3"></audio>
     </div>
+    
+    <audio id="happySound" src="happy.mp3"></audio>
+    <audio id="lazySound" src="lazy.mp3"></audio>
+    <audio id="sadSound" src="sad.mp3"></audio>
+    
     <script src="script.js"></script>
 </body>
 </html>
