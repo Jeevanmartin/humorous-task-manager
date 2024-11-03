@@ -15,13 +15,14 @@ Introducing the Humorous Task Manager! With its snappy responses based on your m
 
 ## Technical Details
 * **Languages**: HTML, CSS, JavaScript
-* **Frameworks/Libraries**: None used, just plain JS!
+* **Frameworks/Libraries**: Just plain JS
 
 ## Implementation
 * **Installation**:
-   - Clone the repository 
+   - Clone the repository-           
    git clone https://github.com/Jeevanmartin/humorous-task-manager.git
-   cd humorous-task-manager
+   
+   - cd humorous-task-manager
 
 * **Run**:  Open `index.html` in a browser
 
@@ -30,19 +31,22 @@ Introducing the Humorous Task Manager! With its snappy responses based on your m
 ### Screenshots
 * **Task Input Interface**  
   This screenshot shows the task input area where you can enter your tasks and mood.  
-  ![Task Input Interface](https://drive.google.com/file/d/1tcDcMqzKq59nAZZzVqJetgwS-77KBRb8/view?usp=drive_link)
+  [Task Input Interface](https://drive.google.com/file/d/1tcDcMqzKq59nAZZzVqJetgwS-77KBRb8/view?usp=drive_link)
 
 * **Response Display**  
   Here, you can see the humorous response generated based on your mood!  
-  ![Response Display](https://drive.google.com/file/d/1EqpybHc320OTsZIn09R0DDSd5etw_T8y/view?usp=drive_link)
+  [Response Display](https://drive.google.com/file/d/1EqpybHc320OTsZIn09R0DDSd5etw_T8y/view?usp=drive_link)
 
 * **Dynamic Background**  
   The background color changes according to the selected mood, adding a fun visual element!  
-  ![Dynamic Background](https://drive.google.com/file/d/1cRp1oJxU7by2aiU9HeSkigldC1Vkrysw/view?usp=drive_link)
+  [Dynamic Background](https://drive.google.com/file/d/1cRp1oJxU7by2aiU9HeSkigldC1Vkrysw/view?usp=drive_link)
 
-### Diagrams
-* (https://drive.google.com/file/d/1hJXRxBGH42l9emb8OzNWOQDvRVwDNCi4/view?usp=drivesdk)
+### Diagram
+* https://drive.google.com/file/d/1hJXRxBGH42l9emb8OzNWOQDvRVwDNCi4/view?usp=drivesdk
 
 ### Project Demo
 * **Video Demo**:  
-  [Demo Video](https://drive.google.com/file/d/1tcDcMqzKq59nAZZzVqJetgwS-77KBRb8/view?usp=drive_link)
+  [Demo Video](https://drive.google.com/file/d/1m2IxTSs4vfLZ7PU0QjyBwDRwa7xzod8T/view?usp=drive_link)
+
+## Team Contributions
+One-person team.
