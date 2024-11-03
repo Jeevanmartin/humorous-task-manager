@@ -62,3 +62,20 @@ li {
         transform: translateY(0);
     }
 }
+
+.confetti {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle, yellow, orange, red);
+    border-radius: 50%;
+    animation: fade 3s ease-out forwards;
+}
+
+@keyframes fade {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
